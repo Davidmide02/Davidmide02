@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Davidmide02
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects that cut across web3
+- 👋 Hi, I’m David Adenusi
+- 👀 I’m interested in solving problems ussing programming
+- 🌱 I’m currently learning JavaScript and React
+- 💞️ I’m looking to collaborate on projects that cut across web development
 - 📫 How to reach me Davidmide07@gmail.com
 
 <!---
