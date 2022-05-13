@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Adenusi
-- 👀 I’m interested in solving problems ussing programming
+- 👀 I’m interested in solving problems ussing programming languages
 - 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on projects that cut across web development
+- 💞️ I’m looking forward to collaborate on projects that cut across web development
 - 📫 How to reach me Davidmide07@gmail.com
 
 <!---
