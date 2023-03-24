@@ -1,7 +1,8 @@
 - 👋 Hi, I’m David Adenusi
-- 👀 I’m interested in solving problems ussing programming languages
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking forward to collaborate on projects that cut across web development
+- 👀 I’m interested and dedicated in solving problems 
+- Technologies HTML, CSS and JavaScript
+- Library Leafjs and Reactjs
+- 💞️ I’m looking forward to collaborate on projects 
 - 📫 How to reach me Davidmide07@gmail.com
 
 <!---
