@@ -18,7 +18,7 @@ In my free time, I love to read books and meditate.
 
 * Feel free to browse my repositories and explore my code!
 * I'm always open to new challenges and collaborations. Don't hesitate to reach out!
-
+<!---
 **Bonus:**
 
 * Add a section showcasing your most interesting projects. 
@@ -26,7 +26,7 @@ In my free time, I love to read books and meditate.
 * Consider adding badges to your README using services like shields.io to visually represent your GitHub stats, programming languages, or frameworks you're proficient in. 
 
 
-
+--->
 
 
 
