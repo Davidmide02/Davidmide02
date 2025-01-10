@@ -6,7 +6,7 @@ I'm Davidmide, a passionate developer with a strong foundation in frontend and b
 
 * **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
 * **Backend:** TypeScript, Node.js, Python (Flask)
-*  **Machine learning:** CVAT, Python 
+*  **Machine learning:** CVAT, Python, TensorFlow, pandas, numpy 
 
 ### About Me
 
